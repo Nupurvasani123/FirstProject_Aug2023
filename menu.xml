@@ -1,0 +1,36 @@
+<menu>
+
+	<breakfast>
+		<item>
+			<name>Eggs</name>
+			<price>2</price>
+		</item>
+		<item>
+			<name>Toast</name>
+			<price>10</price>
+		</item>
+		<item>
+			<name>Bacon</name>
+			<price>15</price>
+		</item>
+	</breakfast>
+
+	<lunch>
+		<item>
+			<name>Rice</name>
+			<price>5</price>
+		</item>
+		<item>
+			<name>Chicken</name>
+			<price>10</price>
+		</item>
+		<item>
+			<name>Beans</name>
+			<price>7</price>
+		</item>
+	</lunch>
+
+</menu>
+
+
+
